@@ -1,3 +1,124 @@
 {
-    "name": "sbs"
+    "id": 1071570,
+    "member_id": 1306721,
+    "loan_amnt": 5375,
+    "funded_amnt": 5375,
+    "funded_amnt_inv": 5350,
+    "term": "60 months",
+    "int_rate": 12.69,
+    "installment": 121.45,
+    "grade": "B",
+    "sub_grade": "B5",
+    "emp_title": "Starbucks",
+    "emp_length": "< 1 year",
+    "home_ownership": "RENT",
+    "annual_inc": 15000,
+    "verification_status": "Verified",
+    "issue_d": "Dec-11",
+    "loan_status": "Charged Off",
+    "pymnt_plan": "n",
+    "url": "https://www.lendingclub.com/browse/loanDetail.action?loan_id=1071570",
+    "desc": "Borrower added on 12/16/11 > I'm trying to build up my credit history. I live with my brother and have no car payment or credit cards. I am in community college and work full time. Im going to use the money to make some repairs around the house and get some maintenance done on my car.<br><br>  Borrower added on 12/20/11 > $1000 down only $4375 to go. Thanks to everyone that invested so far, looking forward to surprising my brother with the fixes around the house.<br>",
+    "purpose": "other",
+    "title": "Building my credit history.",
+    "zip_code": "774xx",
+    "addr_state": "TX",
+    "dti": 18.08,
+    "delinq_2yrs": 0,
+    "earliest_cr_line": "Sep-04",
+    "inq_last_6mths": 0,
+    "mths_since_last_delinq": "",
+    "mths_since_last_record": "",
+    "open_acc": 2,
+    "pub_rec": 0,
+    "revol_bal": 9279,
+    "revol_util": 36.5,
+    "total_acc": 3,
+    "initial_list_status": "f",
+    "out_prncp": 0,
+    "out_prncp_inv": 0,
+    "total_pymnt": 1476.19,
+    "total_pymnt_inv": 1469.34,
+    "total_rec_prncp": 673.48,
+    "total_rec_int": 533.42,
+    "total_rec_late_fee": 0,
+    "recoveries": 269.29,
+    "collection_recovery_fee": 2.52,
+    "last_pymnt_d": "Nov-12",
+    "last_pymnt_amnt": 121.45,
+    "next_pymnt_d": "",
+    "last_credit_pull_d": "Mar-13",
+    "collections_12_mths_ex_med": 0,
+    "mths_since_last_major_derog": "",
+    "policy_code": 1,
+	"application_type": "INDIVIDUAL",
+    "annual_inc_joint": "",
+    "dti_joint": "",
+    "verification_status_joint": "",
+    "acc_now_delinq": 0,
+    "tot_coll_amt": "",
+    "tot_cur_bal": "",
+    "open_acc_6m": "",
+    "open_il_6m": "",
+    "open_il_12m": "",
+    "open_il_24m": "",
+    "mths_since_rcnt_il": "",
+    "total_bal_il": "",
+    "il_util": "",
+    "open_rv_12m": "",
+    "open_rv_24m": "",
+    "max_bal_bc": "",
+    "all_util": "",
+    "total_rev_hi_lim": "",
+    "inq_fi": "",
+    "total_cu_tl": "",
+    "inq_last_12m": ""
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

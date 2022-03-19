@@ -13,6 +13,8 @@ class InputData(BaseModel):
     inq_last_6mths: int
     revol_util: float
     total_acc: int
+    out_prncp: int
+    total_pymnt: float
     total_rec_int: float
     last_pymnt_amnt: str
     tot_cur_bal: str
